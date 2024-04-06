@@ -1,4 +1,4 @@
-(https://raw.githubusercontent.com/Kayrop/Music/main/CaptSpotArtist.png)
+(https://github.com/Kayrop/Music/blob/main/CaptSpotArtist.png)
 
 🎶 Hey everyone! I'm a passionate beatmaker and producer based in Paris. I create beats that traverse all music genres. 🌍
 
