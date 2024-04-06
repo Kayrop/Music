@@ -1,3 +1,5 @@
+(https://raw.githubusercontent.com/Kayrop/Music/main/CaptSpotArtist.png)
+
 🎶 Hey everyone! I'm a passionate beatmaker and producer based in Paris. I create beats that traverse all music genres. 🌍
 
 🎸 Also, I'm the sound engineer for an energetic rock band, bringing a unique vibe to every performance.
